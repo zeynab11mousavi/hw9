@@ -1,0 +1,120 @@
+.rowNav{
+    margin: 1rem  2rem 5rem;
+
+}
+
+
+.email-input{
+    width: 30%;
+    margin: 0 auto;
+}
+#Letstalk{
+    width: 25%;
+}
+
+form{
+    margin-bottom: 12rem;
+}
+
+.row-cards{
+    margin-bottom: 2rem;
+}
+.card{
+    
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #5649CF;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    margin: 2rem auto;
+}
+
+footer{
+    margin-bottom: 10rem;
+}
+
+
+.btn-start{
+    color: #5649CF;
+    background-color: #fff;
+    border: 1px solid #5649CF;
+    margin-left: 45%;
+}
+
+
+span.header1{
+    color: #5649CF;
+}
+.hf{
+    font-size: 60px;
+}
+
+.header{
+    background-color: #F9F9F9;
+    height: 600px
+}
+.icons{
+    width:30px;
+    height:30px;
+    border-radius: 100%;
+    margin-right: 10px;
+
+}
+.hs{
+    font-size:40px;
+}
+.cardss{
+    margin-top: 110px;
+}
+.circle{
+    background-color: #5649CF;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+#startNow{
+    width: 5rem;
+    height: 50px; 
+    border: #5649CF solid 1px;
+    margin-bottom: 2rem;
+}
+
+span{
+    color: #5649CF;
+}
+.rounded-circle{
+    width: 160px;
+    height: 160px;
+    background-color: #5649CF;
+}
+.circle-little{
+    background-color: #7EE3A1; 
+    text-align: center;
+    color: #3CB265;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+}
+.purpple-section{
+    background-image: url(./pictures\ and\ icons/bg.jpg);
+}
+.footer-image{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+}
